@@ -27,7 +27,6 @@ for i in range(len(data_post)):
 ax.set_xlabel('X Axis')
 ax.set_ylabel('Y Axis')
 ax.set_zlabel('Z Axis')
-ax.legend()
 
 plt.show()
 
